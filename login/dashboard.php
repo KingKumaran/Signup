@@ -59,7 +59,7 @@ echo $_SESSION['username'];
 										<img src="images/face.jpg" class="img-lg rounded-square" alt="profile image">
 										<div class="ml-sm-3 ml-md-0 ml-xl-3 mt-2 mt-sm-0 mt-md-2 mt-xl-0">
 										
-											<h6 class="mb-0"><b>Kumaran M</b></h6>
+											<h6 class="mb-0"><b>Virat ABD Kumaran M</b></h6>
 											<p class="mb-1">mckumaran8794@gmail.com</p>
 											<p class="mb-0 text-success font-weight-bold">Developer</p>
 										</div>
