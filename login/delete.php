@@ -40,7 +40,7 @@ echo $_SESSION['username'];
               <li class="nav-item">
                 <a class="nav-link active" href="dashboard.php">
                   <span data-feather="home"></span>
-                  Dashboard User <span class="sr-only">(current)</span>
+                  Dashboard Kumaran <span class="sr-only">(current)</span>
                 </a>
               </li>
             </ul>
