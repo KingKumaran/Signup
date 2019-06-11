@@ -7,7 +7,7 @@
     <meta name="author" content="">
    <!-- <link rel="icon" href="https://getbootstrap.com/favicon.ico">-->
 
-    <title>Dashboard</title>
+    <title>Dashboard Updated</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/dashboard/">
 
