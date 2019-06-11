@@ -1,0 +1,69 @@
+
+.body
+{
+background-color:#566676;
+}
+.bg
+{
+width:100%;
+height:100%;	
+padding:50px 60px;
+margin-top:20vh;
+border:1px solid #fff;
+-webkit-box-shadow:-1px 4px 26px 11px rgba(0,0,0,0.75);
+-moz-box-shadow:-1px 4px 26px 11px rgba(0,0,0,0.75);
+box-shadow:-1px 4px 26px 11px rgba(0,0,0,0.75);
+}
+@media only screen and(max-width:678px)
+{
+	.bg{
+		background-size:300%;
+	}
+}
+h2
+{
+	color:green;
+}
+[ Login100 more ]*/
+.login100-more {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: calc(100% - 520px);
+  position: relative;
+  z-index: 1;
+}
+
+.login100-more::before {
+  content: "";
+  display: block;
+  position: absolute;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: #e8519e;
+  background: -webkit-linear-gradient(bottom, #e8519e, #c77ff2);
+  background: -o-linear-gradient(bottom, #e8519e, #c77ff2);
+  background: -moz-linear-gradient(bottom, #e8519e, #c77ff2);
+  background: linear-gradient(bottom, #e8519e, #c77ff2);
+  opacity: 0.8;
+}
+.login-form
+{
+	margin-top:50px;
+	box-shadow:0px 0px 10px 1px grey;
+	border-radius:5px;
+	padding-bottom:20px;
+	background:white;
+}
+.title
+{
+	background:#007bbf;
+	padding:10px;
+	text-align:center;
+	text-align:center;
+	color:#fff;
+	border-radius:0px 0px 10px 10px;
+}
